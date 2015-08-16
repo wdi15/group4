@@ -1,1 +1,6 @@
-# group4
+Group members:
+Bianca
+Ben
+Jerry
+Jessie
+Christopher
