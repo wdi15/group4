@@ -1,0 +1,75 @@
+element.style {
+}
+@media screen, print, projection
+.nav .sitemap li {
+    margin: 0 30px;
+    white-space: nowrap;
+}
+@media screen, print, projection
+.header li, .footer li {
+    display: inline-block;
+}
+@media screen, print, projection
+.header h1, .brand, .nav li, .nav a {
+    line-height: 41px;
+}
+user agent stylesheetli {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+Inherited from 
+@media screen, print, projection
+.nav .sitemap {
+    font-size: 15px;
+    font-weight: bold;
+    margin: 0;
+    text-transform: uppercase;
+}
+@media screen, print, projection
+.header ul, .footer ul {
+    list-style: none;
+}
+user agent stylesheetul, menu, dir {
+    display: block;
+    list-style-type: disc;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 40px;
+}
+Inherited from 
+@media screen, print, projection
+.nav, .footer {
+    letter-spacing: 1px;
+}
+@media screen, print, projection
+.nav {
+    margin: 0 100px 0 145px;
+    text-align: center;
+}
+Inherited from 
+@media screen, projection
+body {
+    -webkit-font-smoothing: antialiased;
+    padding: 0 20px;
+}
+Inherited from 
+@media screen, projection
+html {
+    background: #010c1e;
+    color: #fff;
+    padding: 0;
+}
+@media screen, projection
+html, h4, h5, h6 {
+    font-size: 17px;
+}
+@media screen, print, projection
+html {
+    line-height: 1.6;
+}
+@media screen, print, projection
+html, input, textarea {
+    font-family: Karla,arial,sans-serif;
+}
