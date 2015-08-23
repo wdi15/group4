@@ -60,3 +60,8 @@ a {
   text-decoration: none;
 }
 
+.waterText {
+  font-size: 24vm;
+  font-weight:bolder;
+}
+
