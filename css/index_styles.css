@@ -28,7 +28,7 @@
 	src: url("../fonts/Nexa.otf");
 }
 
-@keyframes fadein100 {
+@keyframes fadein80 {
     from { opacity: 0; }
     to   { opacity: 0.8; }
 }
