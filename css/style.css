@@ -50,5 +50,12 @@ div {
 
 body { 
   padding-top: 70px; 
-  
+}
+
+.active {
+  color: red;
+}
+
+li:hover {
+  color: orange;
 }
