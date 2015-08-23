@@ -1,4 +1,6 @@
-
+li {
+  display: inline-block;
+}
 
 .nav>li {
     position: relative;
