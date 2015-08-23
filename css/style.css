@@ -19,6 +19,11 @@ li {
     letter-spacing: 3px;
 }
 
+.center {
+    margin: auto;
+    width: 60%;
+}
+
 @media (min-width: 1200px)
 .container {
     width: 1170px;
