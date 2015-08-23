@@ -28,6 +28,11 @@
 	src: url("../fonts/Nexa.otf");
 }
 
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
 body {
 	position: relative;
 }
@@ -36,6 +41,9 @@ body {
 	position: fixed;
 	max-height: 100vh;
 	min-width: 100vw;
+	animation-name: fadein;
+	animation-duration: 1.5s;
+	animation-timing-function: linear;
 }
 
 a h1 {
@@ -43,9 +51,10 @@ a h1 {
 	top: 55%;
 	left: 20%;
 	font-size: 8vw;
-	font-family: Lato;
+	font-family: lato;
 	font-weight: 300;
 	color: #E5E5E5;
+	animation-name: fadein;
+	animation-duration: 2.5s;
+	animation-timing-function: ease-in;
 }
-
-
