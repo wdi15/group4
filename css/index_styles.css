@@ -28,7 +28,12 @@
 	src: url("../fonts/Nexa.otf");
 }
 
-@keyframes fadein {
+@keyframes fadein100 {
+    from { opacity: 0; }
+    to   { opacity: 0.8; }
+}
+
+@keyframes fadein100 {
     from { opacity: 0; }
     to   { opacity: 1; }
 }
@@ -41,7 +46,7 @@ body {
 	position: fixed;
 	max-height: 100vh;
 	min-width: 100vw;
-	animation-name: fadein;
+	animation-name: fadein100;
 	animation-duration: 1.5s;
 	animation-timing-function: linear;
 }
@@ -54,7 +59,12 @@ a h1 {
 	font-family: lato;
 	font-weight: 300;
 	color: #E5E5E5;
-	animation-name: fadein;
+	opacity: 0.8;
+	animation-name: fadein80;
 	animation-duration: 2.5s;
 	animation-timing-function: ease-in;
+}
+
+a h1:hover {
+	opacity: 0.3;
 }
