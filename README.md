@@ -12,4 +12,6 @@ Bianca-continue with the nav bar and create concept/specs png for others as a te
 Jerry-Splash page and any needed formatting (make it look good)
 <br>
 Jessie, Christopher, Ben-content...google drive (FOR NOW.....) 
+<br>
+Christopher will start the first draft on the webpage for issue
 
