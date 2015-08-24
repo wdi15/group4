@@ -33,6 +33,7 @@ a h1 {
 	animation-name: fadein80;
 	animation-duration: 2.5s;
 	animation-timing-function: ease-in;
+	transition: 0.5s;
 }
 
 a h1:hover {
