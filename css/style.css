@@ -1,44 +1,67 @@
-/*Below here: Christopher's codes */
-body{
-	font-family: arial;
-	opacity: 0;
-	transition: opacity 2s;
-	background-color: white;
+/*Reverted*/
+li {
+  display: inline-block;
 }
 
-.jumbo {
-	background: url(https://www.reminetwork.com/wp-content/uploads/water.jpg);
-	background-size: cover;
-	width: 100vw;
-	height: 50%;
-	position: relative;
+.nav>li {
+    position: relative;
+    display: block;
 }
 
-.bigTitle {
-	top: 5%;
-	left: 5%;
-	position: absolute;
-	color: #606060;
-	font-weight: bold;
-	font-size: 25px;
+
+.nav {
+    display: table;
+    float: none;
+    margin: 0 auto;
+    table-layout: fixed;
+    font-size: 1.25em;
+    text-transform: uppercase;
+    font-weight: 400;
+    letter-spacing: 3px;
 }
 
-.color {
-	top: 15%;
-	left: 8%;
-	position: absolute;
-	color: black;
-	font-weight: bolder;
-	font-size: 25px;
-	height: 20%;
-	width: 90%;
-	font-size: 15px;
+.center {
+    margin: auto;
+    width: 60%;
 }
 
-.personwithbottle {
-	position: relative;
-	display: inline-block;
-	float: right;
-	height: 30%;
-	width:  30%;
+@media (min-width: 1200px)
+.container {
+    width: 1170px;
+}
+@media (min-width: 992px)
+.container {
+    width: 970px;
+}
+@media (min-width: 768px)
+.container {
+    width: 750px;
+}
+
+
+div {
+  display:block;
+}
+
+body { 
+  padding-top: 70px; 
+}
+
+.active {
+  color: #00ACEE;
+}
+
+.inactive:hover {
+  color: #FEB913;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.waterText {
+  font-size: 24vm;
+  font-weight:bolder;
 }
