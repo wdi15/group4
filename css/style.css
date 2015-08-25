@@ -1,3 +1,42 @@
+/*Below here: Christopher's codes */
+
+body{
+	font-family: arial;
+	opacity: 0;
+	transition: opacity 2s;
+	background-color: white;
+}
+
+.jumbo {
+	background: url(https://www.reminetwork.com/wp-content/uploads/water.jpg);
+	background-size: cover;
+	width: 100vw;
+	height: 50%;
+}
+
+.bigTitle {
+	top: 2vw;
+	left: 2vw;
+	position: absolute;
+	color: #606060;
+	font-weight: bold;
+}
+
+.color {
+	top: 10vw;
+	left: 5vw;
+	position: absolute;
+	color: black;
+	font-weight: bolder;
+	font-size: 25px;
+	border-radius: 5px;
+	background-color: white;
+	height: 20%;
+	width: 90%;
+
+	
+/* Below here: Bianca's codes.... */
+
 li {
   display: inline-block;
 }
