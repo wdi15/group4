@@ -1,3 +1,24 @@
+div, h1, h2, h3, h4, h5, a, ul, li {
+	/* This style forces a black border on most elements in this assignment 
+	   Uncomment it to help you visualize the document structure */
+	
+	
+	border: 2px solid black ;
+	box-sizing:border-box;
+	margin: 1px;
+	
+}
+
+/* This CSS rule removes some of the default styling You can leave it in place */
+h1, h2, h3, h4, h5, p, a, body
+{
+	padding: 0px;
+	margin: 0px;
+}
+
+
+
+
 well {
   background-color: transparent;
 }
