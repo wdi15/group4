@@ -1,0 +1,12 @@
+well {
+  background-color: transparent;
+}
+
+.bigImage {
+  width: 100vw;
+  height: auto; 
+}
+
+.imageText {
+  vertical-align: middle; 
+}
