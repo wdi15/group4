@@ -65,13 +65,16 @@ h2 {
 .midLeftTitle, .midLeftText {
 	font-family: "Bebas Neue";
 	color:#feb913;
-	padding-left:3vw;
 }
 
 .midLeftTitle {
 	padding-bottom: 0;
+	font-size:5vw;
+	padding-left:2vw;
 }
 
 .midLeftText {
 	padding-top:0;
+	padding-left:3vw;
+	
 }
