@@ -61,3 +61,16 @@ h2 {
 .midRight {
 	background-color: orange;
 }
+
+.midLeftTitle, .midLeftText {
+	font-family: "Bebas Neue";
+	color:#feb913;
+}
+
+.midLeftTitle {
+	
+}
+
+.midLeftText {
+	
+}
