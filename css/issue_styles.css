@@ -10,10 +10,14 @@ div, h1, h2, h3, h4, h5, a, ul, li {
 }
 
 /* This CSS rule removes some of the default styling You can leave it in place */
-h1, h2, h3, h4, h5, p, a, body
+h1, h3, h4, h5, p, a, body
 {
 	padding: 0px;
 	margin: 0px;
+}
+
+h2 {
+	margin: 10px
 }
 
 .top, .middle, .bottom {
