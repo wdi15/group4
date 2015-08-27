@@ -39,7 +39,9 @@ h2 {
   vertical-align: middle;
   width: 100vw;
   height: 100vh;
-  line-height:
+  margin: 0px;
+  padding: 3%;
+  font-size: 4vw;
 }
 
 .topContainer {
