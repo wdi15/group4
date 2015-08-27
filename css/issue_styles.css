@@ -17,7 +17,9 @@ h1, h3, h4, h5, p, a, body
 }
 
 h2 {
-	margin: 10px
+	margin: 0px;
+	padding: 40px;
+	font-size: 36px;
 }
 
 .top, .middle, .bottom {
