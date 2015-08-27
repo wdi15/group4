@@ -70,3 +70,8 @@ a {
   font-size: 24vm;
   font-weight:bolder;
 }
+
+.container {
+  width: 100vw;
+  height: 100vh;
+}
