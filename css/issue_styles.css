@@ -30,9 +30,9 @@ h1, h2, h3, h4, h5, p, a, body
 .imageText {
   font-family: "Lato";
   color: white;
-  vertical-align: inherit;
+  vertical-align: middle;
   width: 100vw;
-  height: auto;
+  height: 100vh;
 }
 
 .topContainer {
