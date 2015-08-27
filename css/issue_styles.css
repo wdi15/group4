@@ -70,11 +70,15 @@ h2 {
 .midLeftTitle {
 	padding-bottom: 0;
 	font-size:5vw;
-	padding-left:2vw;
+	padding-left:2.5vw;
 }
 
 .midLeftText {
 	padding-top:0;
 	padding-left:3vw;
+	
+}
+
+.midLeftIcon {
 	
 }
