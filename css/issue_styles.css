@@ -35,6 +35,6 @@ h1, h2, h3, h4, h5, p, a, body
 
 .topContainer {
 	background-image: url("https://cloud.githubusercontent.com/assets/13310037/9508709/e265ef1a-4c0c-11e5-96ce-5f34cef9984e.jpg");
-	width: 100%;
-	height: 100%;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
 }
