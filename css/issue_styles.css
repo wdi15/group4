@@ -57,7 +57,7 @@ h2 {
 	display: inline-block;
 	margin-top:0.5vw;
 	width: 50vw;
-	height: 60vw;
+	height: 55vw;
 }
 
 .midRight {
@@ -73,12 +73,13 @@ h2 {
 	padding-bottom: 0;
 	font-size:7.5vw;
 	padding-left:2vw;
-	padding-top: 3vw;
+	padding-top: 2vw;
 }
 
 .midLeftText {
 	padding-top:0;
 	padding-left:3vw;
+	padding-bottom:0;
 	
 }
 
