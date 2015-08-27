@@ -19,7 +19,7 @@ h1, h3, h4, h5, p, a, body
 h2 {
 	margin: 0px;
 	padding: 40px;
-	/*font-size: 50px;*/
+	font-size: 50vw;
 }
 
 .top, .middle, .bottom {
@@ -51,15 +51,3 @@ h2 {
 	margin: auto;
 }
 
-@media (min-width: 1200px)
-.imageText {
-    font-size:50px;
-}
-@media (min-width: 992px)
-.container {
-    font-size:24px;
-}
-@media (min-width: 768px)
-.container {
-    font-size:12px;
-}
