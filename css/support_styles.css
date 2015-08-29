@@ -3,8 +3,8 @@
   height: auto;
 }
 
-.content-caption { //TESTING: STYLE TBD>
-  margin: auto; /*text-align: center;*/
+.content-caption { //TESTING
+  text-align: center;
   font-family: "Lato";
   font-size: 4vw;
   color: green;
