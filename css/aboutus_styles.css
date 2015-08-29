@@ -7,11 +7,19 @@
 .headtitle {
 	position: absolute;
 	color: white;
-	font-size: 10vw;
+	font-size: 9vw;
+	font-family: lato;
+	font-weight: 300;
+	left: 20%;
+	top: 20%;
+	text-align: center;
 }
 
 .paragraph {
 	position: absolute;
-	color:;
-	top: 120%;
+	margin: 10%;
+	color: #34344D;
+	top: 110%;
+	font-size: 2.2vw;
+	text-align: center;
 }
