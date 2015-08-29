@@ -1,0 +1,17 @@
+.back {
+	position: absolute;
+	min-width: 100vw;
+	max-height: 100vh;
+}
+
+.headtitle {
+	position: absolute;
+	color: white;
+	font-size: 10vw;
+}
+
+.paragraph {
+	position: absolute;
+	color:;
+	top: 120%;
+}
