@@ -77,6 +77,7 @@ body {
 	height: 18vw;
 	border: 5px solid #CECFCF;
 	border-radius: 25px;
+	position: relative;
 }
 
 .margin {
@@ -86,11 +87,11 @@ body {
 
 .position {
 	position: absolute;
-	top: 2675px;
+	top: 2725px;
 	margin-left: 10px;
 	font-size: 15px;
 }
 
 .extra {
-	top: 2400px !important;
+	top: 2520px !important;
 }
