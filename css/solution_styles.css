@@ -13,11 +13,12 @@ body {
 .BigHeader {
 	position: absolute;
 	left: 0;
-	top: 350px;
+	top: 400px;
 	color: white;
 	background: rgb(0, 0, 0); /* fallback color */
     background: rgba(0, 0, 0, 0.7);
     padding: 10px; 
+    font-size: 50px;
 }
 
 .break {
@@ -33,3 +34,18 @@ body {
 	margin-left: 10px;
 }
 
+.largeHeader {
+	text-align: center;
+}
+
+.colorbackground {
+	width: 30vw;
+	background-color: #AF3F3A;
+	height: 30wv;
+}
+
+.supportClass {
+	height: 600px;
+	width: 600px;
+	margin: auto;
+}
