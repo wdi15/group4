@@ -28,10 +28,13 @@
 
 .acknowledgements {
 	position: absolute;
-	margin: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 5%;
+	margin-bottom: 2.5%;
 	color: #3B5893;
 	top: 145%;
-	font-size: 1.7vw;
+	font-size: 1.5vw;
 	font-family: lato;
 	font-weight: 300;
 	text-align: center;
