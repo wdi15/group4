@@ -85,6 +85,6 @@ a {
   
 }
 
-span {
-  word-spacing: none;
+li a span {
+  word-spacing: none !important;
 }
