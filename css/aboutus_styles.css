@@ -9,7 +9,7 @@
 	color: white;
 	font-size: 7.5vw;
 	font-family: lato;
-	font-weight: 300;
+	font-weight: 400;
 	left: 12%;
 	top: 20%;
 	text-align: center;
@@ -19,10 +19,10 @@
 	position: absolute;
 	margin: 5%;
 	color: #18243D;
-	top: 110%;
+	top: 115%;
 	font-size: 2vw;
 	font-family: lato;
-	font-weight: 300;
+	font-weight: 400;
 	text-align: center;
 }
 
@@ -30,9 +30,17 @@
 	position: absolute;
 	margin: 5%;
 	color: #3B5893;
-	top: 150%;
+	top: 140%;
 	font-size: 1.7vw;
 	font-family: lato;
-	font-weight: 300;
+	font-weight: 400;
 	text-align: center;
+}
+
+.alink {
+	text-decoration: none;
+}
+
+.link {
+	color: #6AB4FF;
 }
