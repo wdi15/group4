@@ -44,6 +44,13 @@ h2 {
   font-size: 4vw;
 }
 
+img {
+    vertical-align: middle;
+    width: 100vw;
+    margin-top: 0;
+    padding-top: 0;
+}
+
 .topContainer {
 	background-image: url("https://cloud.githubusercontent.com/assets/13310037/9508709/e265ef1a-4c0c-11e5-96ce-5f34cef9984e.jpg");
 	background-repeat: no-repeat;
