@@ -11,7 +11,7 @@
 body {
 	font: arial;
 	box-sizing: border-box;
-	background-color: #E9E5CB;
+	background-color: #FFFFFF;
 }
 
 .waterWater {
@@ -121,4 +121,8 @@ body {
 .extra {
 	bottom: 45px !important;
 	font-size 23px;
+}
+
+.thubnail .caption {
+	background-color: lightgrey;
 }
