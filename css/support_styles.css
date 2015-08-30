@@ -24,7 +24,7 @@
   font-weight: 400;
   font-size: 6vw;
   color: #333333;
-  top: 16%;
+  top: 13%;
   left: 5%;
   opacity: 0.7;
   animation-name: fadein70;
@@ -35,7 +35,7 @@
 
 .btn {
 	position: absolute;
-	top: 48%;
+	top: 44%;
 	left: 9%;
 }
 
