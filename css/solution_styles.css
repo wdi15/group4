@@ -110,12 +110,15 @@ body {
 }
 
 .frontColor {
-	width:  100vw;
+	width:  90vw;
 	background-color: #CECFCF;
 	height: 18vw;
 	border: 5px solid #CECFCF;
 	border-radius: 25px;
 	position: relative;
+	margin-right: auto;
+	margin-left: auto;
+	position: block;
 }
 
 .margin {
