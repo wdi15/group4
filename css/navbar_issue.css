@@ -85,7 +85,7 @@ a {
   
 }
 
-li a span {
-  word-spacing: none !important;
+#noSpace {
+  word-spacing: 0;
 }
 
