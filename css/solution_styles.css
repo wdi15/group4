@@ -13,13 +13,22 @@ body {
 
 .BigHeader {
 	position: absolute;
+	left: 3%;
+	top: 38%;
+	color: white;
+	opacity: 0.7;
+	font-family: Lato;
+	font-weight: 400;
+	font-size: 6vw;
+	text-align: left;
+	/* position: absolute;
 	left: 0;
 	top: 400px;
 	color: white;
 	background: rgb(0, 0, 0); /* fallback color */
-    background: rgba(0, 0, 0, 0.7);
+    /*background: rgba(0, 0, 0, 0.7);
     padding: 10px; 
-    font-size: 50px;
+    font-size: 50px; */
 
 }
 

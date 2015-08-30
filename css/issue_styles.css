@@ -34,14 +34,19 @@ h2 {
 }
 
 .imageText {
+  position: absolute;
   font-family: "Lato";
+  font-weight: 400;
   color: white;
+  opacity: 0.8;
   vertical-align: middle;
   width: 100vw;
   height: 100vh;
   margin: 0px;
   padding: 3%;
   font-size: 4vw;
+  top: 5%;
+  left: -1%;
 }
 
 img {
