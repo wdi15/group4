@@ -29,12 +29,13 @@ li {
 /* ul {
   margin-top: 5%;
   margin-bottom: 5%;
-}
+} */
 
 ol, ul {
     margin-top: 0;
     margin-bottom: 10px;
-} */
+} 
+
 
 @media (min-width: 1200px)
 .container {
