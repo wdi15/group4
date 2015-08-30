@@ -1,7 +1,20 @@
+@keyframes fadein80 {
+    from { opacity: 0; }
+    to   { opacity: 0.8; }
+}
+
+@keyframes fadein100 {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
 .back {
 	position: absolute;
 	min-width: 100vw;
 	max-height: 100vh;
+	animation-name: fadein100;
+	animation-duration: 1.5s;
+	animation-timing-function: linear;
 }
 
 .headtitle {
@@ -14,6 +27,10 @@
 	left: 12%;
 	top: 20%;
 	text-align: center;
+	animation-name: fadein80;
+	animation-duration: 2.0s;
+	animation-timing-function: ease-in;
+	transition: 0.5s;
 }
 
 .paragraph {

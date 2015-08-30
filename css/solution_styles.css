@@ -1,3 +1,13 @@
+@keyframes fadein80 {
+    from { opacity: 0; }
+    to   { opacity: 0.8; }
+}
+
+@keyframes fadein100 {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
 body {
 	font: arial;
 	box-sizing: border-box;
@@ -9,6 +19,9 @@ body {
 	width: 100vw;
 	height: 50%;
 	font-weight: bold;
+	animation-name: fadein100;
+	animation-duration: 1.5s;
+	animation-timing-function: linear;
 }
 
 .BigHeader {
@@ -21,6 +34,10 @@ body {
 	font-weight: 400;
 	font-size: 6vw;
 	text-align: left;
+	animation-name: fadein80;
+	animation-duration: 2.0s;
+	animation-timing-function: ease-in;
+	transition: 0.5s;
 	/* position: absolute;
 	left: 0;
 	top: 400px;

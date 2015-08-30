@@ -1,3 +1,13 @@
+@keyframes fadein80 {
+    from { opacity: 0; }
+    to   { opacity: 0.8; }
+}
+
+@keyframes fadein100 {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
 div, h1, h2, h3, h4, h5, a, ul, li {
 	/* This style forces a black border on most elements in this assignment 
 	   Uncomment it to help you visualize the document structure */
@@ -30,7 +40,10 @@ h2 {
 
 .bigImage {
   width: 100vw;
-  height: auto; 
+  height: auto;
+  animation-name: fadein100;
+	animation-duration: 1.5s;
+	animation-timing-function: linear;
 }
 
 .imageText {
@@ -47,6 +60,10 @@ h2 {
   font-size: 4vw;
   top: 5%;
   left: -1%;
+  animation-name: fadein80;
+	animation-duration: 2.0s;
+	animation-timing-function: ease-in;
+	transition: 0.5s;
 }
 
 img {
