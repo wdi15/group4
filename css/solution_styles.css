@@ -11,7 +11,7 @@
 body {
 	font: arial;
 	box-sizing: border-box;
-	background-color: #FFFFFF;
+	background-color: lightgrey;
 }
 
 .waterWater {
@@ -22,6 +22,10 @@ body {
 	animation-name: fadein100;
 	animation-duration: 1.5s;
 	animation-timing-function: linear;
+}
+
+.BigHeader:hover {
+	color: #F06161;
 }
 
 .BigHeader {
@@ -49,6 +53,11 @@ body {
 
 }
 
+.picture {
+	width: 450px;
+	height: 290px;
+}
+
 .break {
 	margin-top: 25px;
 	margin-bottom: 10px;
@@ -66,7 +75,7 @@ body {
 	text-align: center;
 	font-size: 25px;
 	position: absolute;
-	top: 1835px;
+	width: 100%;
 	color: white;
 }
 
@@ -88,13 +97,16 @@ body {
 	font-size: 35px;
 	position: absolute;
 	width: 100%;
-	color: white;
+	color: #A9EC7F;
+	font-weight: bold;
+	font-family: monaco;
 }
 
 .secondHeader {
 	font-weight: bolder;
 	font-family: monospace;
 	text-align: center;
+	color: #5A6ED5;
 }
 
 .frontColor {
@@ -109,20 +121,16 @@ body {
 .margin {
 	margin-left: 10px;
 	position: absolute;
+	font-family: courier;
 }
 
 .position {
-	position: absolute;
 	bottom: 25px;
 	margin-left: 10px;
-	font-size: 18px;
+	font-size: 20px;
 }
 
 .extra {
 	bottom: 45px !important;
-	font-size 23px;
-}
-
-.thubnail .caption {
-	background-color: lightgrey;
+	font-size: 23px;
 }
