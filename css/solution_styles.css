@@ -11,7 +11,7 @@
 body {
 	font: arial;
 	box-sizing: border-box;
-	background-color: #3C3A3A;
+	background-color: white;
 }
 
 .waterWater {
@@ -119,12 +119,14 @@ body {
 	margin-right: auto;
 	margin-left: auto;
 	position: block;
+	color: #3C3A3A;
 }
 
 .margin {
 	margin-left: 10px;
 	position: absolute;
 	font-family: courier;
+	color: white;
 }
 
 .position {
