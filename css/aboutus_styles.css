@@ -7,7 +7,7 @@
 .headtitle {
 	position: absolute;
 	color: white;
-	font-size: 7.5vw;
+	font-size: 7vw;
 	font-family: lato;
 	font-weight: 400;
 	left: 12%;
@@ -30,10 +30,10 @@
 	position: absolute;
 	margin: 5%;
 	color: #3B5893;
-	top: 140%;
+	top: 145%;
 	font-size: 1.7vw;
 	font-family: lato;
-	font-weight: 400;
+	font-weight: 300;
 	text-align: center;
 }
 
