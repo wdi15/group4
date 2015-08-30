@@ -1,0 +1,17 @@
+.main {
+	position: absolute;
+	font-family: Lato;
+	font-weight: 300;
+	font-size: 5vw;
+	margin-top: 8%;
+	margin-left: 8%;
+	margin-right: 8%;
+	margin-bottom: 2%;
+	text-align: center;
+}
+
+a {
+	position: absolute;
+	left: 47%;
+	top: 55%;
+}

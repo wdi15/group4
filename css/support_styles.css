@@ -1,11 +1,28 @@
 .content-image {
-  width: 100vw;
-  height: auto;
+	min-width: 100vw;
+	max-height: 100vh;
+	position: absolute;
 }
 
-.content-caption { //TESTING
+.content-caption {
+  position: absolute;
   text-align: center;
   font-family: "Lato";
-  font-size: 4vw;
-  color: green;
+  font-weight: 400;
+  font-size: 6vw;
+  color: #333333;
+  top: 25%;
+  left: 5%;
+  opacity: 0.5;
+}
+
+.btn {
+	position: absolute;
+	top: 57%;
+	left: 9%
+}
+
+.paypal {
+	top: 70%;
+	left: 10%;
 }
